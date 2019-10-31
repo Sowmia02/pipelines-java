@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/sowmia2019/test/_apis/build/status/Sowmia02.pipelines-java?branchName=master)](https://dev.azure.com/sowmia2019/test/_build/latest?definitionId=1&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
